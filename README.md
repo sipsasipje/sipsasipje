@@ -4,7 +4,7 @@ I am a web developer and general tech enthusiast with a flair for design. I like
 
 [![Linkedin Badge](https://img.shields.io/badge/-pieter-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pieter-huurman-56a2199/)](https://www.linkedin.com/in/pieter-huurman-56a2199/)
 
-## What is sipsasipje?
+## Sipsasipje?
 
 A silly name my brother and I used to call each other when we were young. It's still a mystery who or what it actually is.
 
